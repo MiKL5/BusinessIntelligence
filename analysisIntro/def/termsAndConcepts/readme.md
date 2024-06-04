@@ -46,4 +46,4 @@ Un site web, comme tout outil digital est basé sur une base de donnée. Pour no
 ## ⟹ En résumé
 Les DS développent des algo pour traider les données et présenter l’outil le plus pertinant au client. Les DA detectent des tendances et comprendre le comportement des users et aider les équipes à travailler.  
 Ces métiers se bases sur la BDD conteant les infos et actions des client envers l’outil.  
-La BDD étant utilisée à des fins d’analyses, elle est sutout la base pour le fonctonnement du site.
+La BDD étant utilisée à des fins d’analyses, elle consittue surtout les fondations du site, outils ou autre programme.
