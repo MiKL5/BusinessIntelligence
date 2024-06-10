@@ -1,4 +1,4 @@
-# **Business intelligence** <a href="https://github.com/MiKL5/"> <img src="assets/bi.svg" alt="Business intelligence" align="right" height="64px"> </a>
+# **Business intelligence** <a href="https://github.com/MiKL5/"><img src="assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
 <div align="center">
 
 [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi)  
@@ -17,9 +17,9 @@ ___
 
 ___
 [Qu’est ce que l’ETL](docs/etl)  
-<!-- [L'analytique des données](docs/dataAnalytics)   -->
+<!-- [L’analytique des données](docs/dataAnalytics)   -->
 <!-- [L'entrepôt des données](docs/dataWarehouse) -->
-<!-- [L'OLAP](docs/olap) -->
+[L’OLAP](docs/olap)
 ___
 <div align="center"><h3><b>Contenu connexe</b></h3></div>
 
