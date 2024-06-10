@@ -1,4 +1,4 @@
-# **Qu’est ce que l’ETL (Extract, Transform, Load)**
+# **Qu’est ce que l’ETL (Extract, Transform, Load)** <a href="../../"><img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
 L’ETL (extract, transform, load), est un processus automatisé combinant les données brutes de plusieurs sources, extrait l’information nécessaire à l’analyse, la transforme par un ensemble de règles opérationnelles visant à nettoyer et organiser en un format répondant aux besoins opérationnels et la charge dans un [Data Warehouse](docs/dataWarehouse).Elle pourront être utilisées pour l’[analytique des données](docs/dataAnalytics) et le [machine learning]( https://github.com/MiKL5/artificialIntelligence/blob/master/docs/machineLearning/definition). L’ETL résume généralement les données afin de réduire leur taille et d’améliorer leur performance pour des types d’analyse spécifiques.
 
 Il faut régulièrement charger le data warehouse afin de faciliter l’analyse commerciale. Les données d’un ou plusieurs systèmes opérationnels sont extraites et copiées dans ce dernier. Le défi dans les environnements de data warehouse est d’intégrer, réorganiser et consolider de grands volumes de données sur de nombreux systèmes, fournissant ainsi une nouvelle base d’information unifiée pour la [Business Intelligence](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi).  
@@ -22,3 +22,7 @@ Les équipes de BI lancent ensuite des requêtes sur ces données, ensuite prés
 ⟹ Les technologies émergentes et l’automatisation imprègnent tous les aspects de notre travail et de notre vie d’aujourd’hui.  
 La véritable opportunité de ces technologies, qui incluent l’intelligence artificielle (IA), le machine learning, l’Internet des Objets (IoT) et les interfacent humaines, est de nous permettre d’adopter l’innovation à une échelle jamais vue auparavant.  
 Ces technologies nous aident à réimaginer ce qu’il est possible de faire au travail et dans la vie : des voitures à la médecine personnalisée à l’agriculture de précision et aux villes intelligentes qui changent notre façon de vivre notre monde.
+
+<!-- ___
+>>> Cf.  
+[Qu'est-ce que le processus ETL](https://www.oracle.com/fr/database/processus-etl-definition/) -->
