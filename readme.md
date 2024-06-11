@@ -17,8 +17,10 @@ ___
 
 ___
 [Qu’est ce que l’ETL](docs/etl)  
-<!-- [L’analytique des données](docs/dataAnalytics)   -->
-<!-- [L'entrepôt des données](docs/dataWarehouse) -->
+[L’analytique des données](docs/dataAnalytics) <kbd>_Soon_</kbd>  
+[La différence entre une BDD et un data warehouse](docs/bddVSdw)  
+[Le data warehouse](docs/dataWarehouse) <kbd>_Soon_</kbd>  
+[Le data Lake](docs/dataLake/) <kbd>_Soon_</kbd>  
 [L’OLAP](docs/olap)
 ___
 <div align="center"><h3><b>Contenu connexe</b></h3></div>
