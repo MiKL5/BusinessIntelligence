@@ -23,7 +23,7 @@ ___
 [L’analytique des données](docs/dataAnalytics) <kbd>_Soon_</kbd>  
 [Le data warehouse](docs/dataWarehouse)  
 [Les types de Data Warehouse](docs/dataWarehousetype) <kbd>_Soon_</kbd>  
-[Le Data Warehouse vs le Data Mart](docs/dwDM)  
+[Le Data Warehouse vs le Data Mart](docs/dwDm)  
 [Le Data Mart](docs/dataMart)  
 [La différence entre une BDD et un Data Warehouse](docs/bddVSdw)  
 [Le data Lake](docs/dataLake/) <kbd>_Soon_</kbd>  
