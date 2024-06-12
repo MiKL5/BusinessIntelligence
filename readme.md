@@ -16,10 +16,14 @@ ___
 <!-- [MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"> <img src="https://github.com/MiKL5/devWeb/raw/master/Assets/Images/mongodb-ar21.svg" alt="MongoDB" align="left" height="18px"> </a> -->
 
 ___
+<!-- [Data steawardship](docs/dataStewardship)   -->
 [Qu’est ce que l’ETL](docs/etl)  
 [L’analytique des données](docs/dataAnalytics) <kbd>_Soon_</kbd>  
-[La différence entre une BDD et un data warehouse](docs/bddVSdw)  
 [Le data warehouse](docs/dataWarehouse) <kbd>_Soon_</kbd>  
+[Les types de Data Warehouse](docs/dataWarehousetype)
+[Le Data Warehouse vs le Data Mart](docs/dwDM)  
+[Le Data Mart](docs/dataMart)  
+[La différence entre une BDD et un Data Warehouse](docs/bddVSdw)  
 [Le data Lake](docs/dataLake/) <kbd>_Soon_</kbd>  
 [L’OLAP](docs/olap)
 ___
