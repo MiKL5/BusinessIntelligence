@@ -8,6 +8,6 @@ Le data warehouse, collectionne, consolide, organise et analyse d’immenses qua
 Le Data Warehouse, stock couramment différentes versions des mêmes données.
 À l’instar de la BDD, il est optimisé pour traiter les requêtes agrégées ainsi que les opérations de lecture/récupération.
 Une base de données est principalement utilisée pour les opérations quotidiennes et en temps réel, alors qu’un data warehouse a un rôle analytique sur le long-terme.
-<!-- ___
+___
 >>> Source  
-[Oracle](https://www.oracle.com/fr/database/data-warehouse-definition/#:~:text=Un%20Data%20Warehouse%20est%20une,pour%20une%20meilleure%20business%20intelligence.)   -->
+[Oracle](https://www.oracle.com/fr/database/data-warehouse-definition/#:~:text=Un%20Data%20Warehouse%20est%20une,pour%20une%20meilleure%20business%20intelligence.)  

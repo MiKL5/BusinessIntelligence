@@ -23,6 +23,6 @@ Les équipes de BI lancent ensuite des requêtes sur ces données, ensuite prés
 La véritable opportunité de ces technologies, qui incluent l’intelligence artificielle (IA), le machine learning, l’Internet des Objets (IoT) et les interfacent humaines, est de nous permettre d’adopter l’innovation à une échelle jamais vue auparavant.  
 Ces technologies nous aident à réimaginer ce qu’il est possible de faire au travail et dans la vie : des voitures à la médecine personnalisée à l’agriculture de précision et aux villes intelligentes qui changent notre façon de vivre notre monde.
 
-<!-- ___
+___
 >>> Cf.  
-[Qu'est-ce que le processus ETL](https://www.oracle.com/fr/database/processus-etl-definition/) -->
+[Qu’est-ce que le processus ETL](https://www.oracle.com/fr/database/processus-etl-definition/)

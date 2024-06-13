@@ -3,6 +3,6 @@ Un Data Mart est souvent le sous-ensemble d’un Data Warehouse. Tandis que le D
 
 Il est conçu pour accéder plus facilement à des données spécifiques. En entreprise, les informations d’un Data Mart ciblent un métier. Il existe des Data Marts commerciaux constitués de données ciblées, organisées et regroupées, et ce n’est qu’un exemple.
 
-<!-- ___
->>> Cf.
-[Oracle](https://www.oracle.com/fr/database/data-warehouse-definition/#:~:text=Un%20Data%20Warehouse%20est%20une,pour%20une%20meilleure%20business%20intelligence.) -->
+___
+>>> Cf.  
+[Oracle](https://www.oracle.com/fr/database/data-warehouse-definition/#:~:text=Un%20Data%20Warehouse%20est%20une,pour%20une%20meilleure%20business%20intelligence.)

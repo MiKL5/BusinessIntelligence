@@ -14,6 +14,6 @@ Besoin de relativement peu d’espace de stockage | Requiert généralement d’
 Exécute généralement des requêtes simples impliquant un ou plusieurs enregistrements | Impliquant un grand nombre d’enregistrements, il exécute des requêtes complexes
 
 L’OLTP est un système de modification de données en ligne, alors qu’OLAP est un système de banque de données multidimensionnelle historique en ligne utilisé pour extraire des données volumineuses à des fins d’analyse. L’OLAP fournit généralement des analyses sur les données capturées par un voire quelques OLTP.
-<!-- ___
+___
 >>> Source  
-[Oracle](https://www.oracle.com/fr/database/what-is-oltp/) -->
+[Oracle](https://www.oracle.com/fr/database/what-is-oltp/)

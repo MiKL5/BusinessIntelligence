@@ -35,7 +35,7 @@ Théoriquement, un cube peut contenir un nombre infini de couches. Un cube OLAP 
 
 En pratique, les analystes de données créeront des cubes OLAP contenant uniquement les couches dont ils ont besoin, pour une analyse et des performances optimales.  
 
-<!-- ___
->>> Sources :  
+___
+>>> Sources  
 [IBM]( https://www.ibm.com/fr-fr/topics/olap#:~:text=IBM-,Qu'est%2Dce%20que%20l'OLAP%20%3F,un%20autre%20r%C3%A9f%C3%A9rentiel%20de%20donn%C3%A9es./)  
-[DataScientest]( https://datascientest.com/olap-tout-savoir-sur-cette-puissante-organisation-des-bases-de-donnees)   -->
+[DataScientest]( https://datascientest.com/olap-tout-savoir-sur-cette-puissante-organisation-des-bases-de-donnees)  
