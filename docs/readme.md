@@ -1,6 +1,8 @@
 # **Documentation** <a href="../"><img src="../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
-[Quelques termes et concepts](../analysisIntro\intro\termsAndConcepts)
-[La gérance des données](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/dataStewarding)
+[Quelques termes et concepts](../analysisIntro\intro\termsAndConcepts)  
+[La gérance des données](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/dataStewarding)  
+[La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
+[Le Big Data](other/bigData)  
 
 <!-- [Data steawardship](dataStewardship)   -->
 [L’ETL](etl)  
