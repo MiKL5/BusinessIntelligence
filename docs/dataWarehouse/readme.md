@@ -78,8 +78,18 @@ Une entreprise peut en avoir besoin pour ces raisons :
   C’est la structure définissant la manière dont les données sont organisées dans le DW. Ce modèle peut être en étoile, en flocon ou en constellation.
 * **Les outils d’analyse**  
   Ils interrogent le DW afin de fournir des informations précieuses sur les activités de l’entreprise. Ces outils peuvent inclure des rapports, des tableaux de bord, des graphiques, des diagrammes, des analyses statistiques…
-<!-- ## **Que stocke-t-on dans un DW ?** -->
-
+## **Que stocke-t-on dans un DW ?**
+Un entrepôt de données peut stocker des informations très diversifiées en fonction des besoins de l’entreprise. Voici un petit aperçu.
+* **Données transactionnelles**  
+  Ce sont des données détaillées des transactions quotidiennes de l’entreprise, (ventes, commandes, activités clients…).
+* **Données clients**  
+  Cela inclut (les noms, adresses, coordonnées et l’historique des achats des clients).
+* **Données produit**  
+  Cela comprend des informations sur les produits ou services de l’entreprise (les descriptions, prix, niveaux de stock…).
+* **Données financières**  
+  Les revenus, les dépenses et les bénéfices de l’entreprise…
+* Données marketing  
+  Cela comprend des infos de campagnes marketing, les performances des canaux et le retour sur investissement (ROI).
 ## **Les avantages et inconvénients**
 Avantages | Inconvénients
 ---|---
@@ -108,7 +118,7 @@ Le secteur public y collecte des données, ou pour analyser les rapports sur les
 Les chaînes de magasins l’exploitent pour la distribution et le marketing, l’inventaire, la logistique, pour comprendre les consommateurs et pour optimiser les prix ou lancer des campagnes de promotion personnalisées.  
 Le secteur de la télécommunication ou les décisions de vente et de distributions sont basées en rapport aux données, au même titre que les campagnes promotionnelles.  
 Enfin, le tourisme et de l’hôtellerie, les campagnes publicitaires et promotionnelles peuvent être basées sur les préférences et les habitudes des voyageurs.
-# **Son avenir**
+## **Son avenir**
 En même temps qu’elles migrent leurs activités vers le cloud les entreprises ont tendance à migrer leurs bases de données et leurs outils de data warehousing vers le cloud. Ce dernier a de nombreux avantages, flexibilité, collaboration et accessibilité universelle. Des outils très répandus tels que Amazon Redshift, Microsoft Azure SQL Data Warehouse, Snowflake et Google BigQuery permettent de disposer de solutions simples et efficaces pour d’y stocker et analyser les données.  
 Le modèle de cloud réduit les barrières à l’entrée – en particulier le coût, la complexité et les temps de valorisation – ayant tendance jusqu’à présent à restreindre l’adoption et l’utilisation efficace. Avec le cloud, l’entreprise peut augmenter ou réduire la capacité de son DW selon ses réels besoins. De plus, les premiers pas d’une initiative de DW dans le cloud sont très faciles et très rapides : l’investissement initial est réduit et le processus de déploiement est beaucoup moins long (et beaucoup moins coûteux !) qu’un déploiement sur site.  
 Le DW en cloud élimine en grande partie les risques incontournables du DW sur site. Pas besoin de prévoir un budget ni de sourcer du matériel et des logiciels. Nul besoin de prévoir un poste budgétaire annuel pour la maintenance et le support technique. Dans le cloud, les considérations de coût qui ont traditionnellement préoccupé les équipes chargées du data warehousing –la budgétisation des mises à niveau planifiées et non planifiées – n’ont plus cours.
