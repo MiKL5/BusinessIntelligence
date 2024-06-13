@@ -14,7 +14,8 @@ D’un point de vue plus technique, un Data Warehouse est défini comme un ensem
 ## **Les opérations**
 * Drill-down  
   L’opération drill-down permet la conversion des données moins détaillées en données plus détaillées par l’une des deux méthodes :  
-    * Descendre dans la hiérarchie conceptuelle ou alors, ajouter une nouvelle dimension au cube. Par exemple, en affichant les données de vente pour le calendrier civil ou le trimestre fiscal d’une organisation ou bien, effectuer un drill-down pour voir les ventes de chaque mois, en descendant dans la hiérarchie conceptuelle de la dimension « temps ».
+    * Descendre dans la hiérarchie conceptuelle ou alors, ajouter une nouvelle dimension au cube. Par exemple, en affichant les données de vente pour le calendrier civil ou le trimestre fiscal d’une organisation
+    * Ou bien, effectuer un drill-down pour voir les ventes de chaque mois, en descendant dans la hiérarchie conceptuelle de la dimension « temps ».
 * Roll-up  
   C’est le contraire.  
   Agrège les données d’un cube OLAP en remontant dans la hiérarchie conceptuelle sinon, en réduisant le nombre de dimensions. E.g., monter dans la hiérarchie conceptuelle de la dimension « l’emplacement » en affichant les données de chaque pays plutôt que de chaque ville.
@@ -52,7 +53,21 @@ Dans les années 1980, les bases de données relationnelles ont été popularis�
 À la fin des années 1980 l’émergence du premier Data Warehouse d’entreprise, est développé par Paul Murphy et Barry Devlin d’IBM.  
 
 Dans les années 1990, les Data Warehouse ont été popularisés par essentiellement par IBM et Oracle. L’introduction de systèmes de gestion de bases de données relationnelles (SGBDR) a permis de stocker les données efficacement et de les interroger de rapidement et flexiblement. Les outils de Business Intelligence, permettant la visualisation et l’analyse des données stockées dans un Data Warehouse, commencèrent à émerger.
-## Que stock-t-on dans un Data Warehouse ?
+## **Quels sont les objectifs du Data Warehouse ?**
+Habituellement, les Data Warehouse se stuent à la frontière entre les données brutes d’un système d’information, telles qu’elles ont été récoltées, et avec les outils d’analyse de données, de dashboarding et d’aide à la prise de décisions.  
+
+Une entreprise peut en avoir besoin pour ces raisons :
+1. **La consolidation des données**  
+   Les données sont souvent dispersées dans différents systèmes et formats. Le Data Warehouse consolide toutes ces données dans un endroit centralisé ; facilitant l’accès et l’analyse.
+2. **L’analys des données**  
+   Le Data Warehouse permet de stocker des données historiques et actuelles, permettant de faire des analyses sur des périodes plus longues. Les outils de Business Intelligence peuvent être utilisés pour interroger le Data Warehouse et obtenir des informations précieuses sur les activités de l’entreprise.
+3. **L’amélioration de la prise de décision**  
+   Ayant accès à des données fiables et cohérentes, il est possible de prendre des décisions plus éclairées. Les données historiques stockées dans le Data Warehouse permettent également d’identifier les tendances et les modèles, aidant à la prédiction des futurs résultats ou tendances.
+4. **La réduction des coûts**  
+   Le Data Warehouse pour stockant toutes les données, les entreprises peuvent réduire les coûts liés au stockage et à la gestion des données. Les outils de Business Intelligence permettent également de réduire les coûts liés à la création de rapports personnalisés.
+5. **Améliorer la collaboration entre les équipes**  
+   Les données peuvent être utilisées par différentes équipes, favorisant la collaboration et la prise de décision en équipe.
+## **Que stocke-t-on dans un Data Warehouse ?**
 
 
 ___
