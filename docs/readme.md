@@ -1,5 +1,6 @@
 # **Documentation** <a href="../"><img src="../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
 [Quelques termes et concepts](../analysisIntro\intro\termsAndConcepts)
+[La gérance des données](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/dataStewarding)
 
 <!-- [Data steawardship](dataStewardship)   -->
 [L’ETL](etl)  
@@ -11,5 +12,5 @@
 [Le Data Mart](dataMart)  
 [Le data Lake](dataLake/) <kbd>_Soon_</kbd>  
 [La différence entre OLTP et OLAP](oltpVsOlap)  
-[L’OLAP](olap)  
 [L’OLTP](oltp)  
+[L’OLAP](olap)  

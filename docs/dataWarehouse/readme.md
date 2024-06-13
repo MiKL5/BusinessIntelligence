@@ -11,3 +11,13 @@ D’un point de vue plus technique, un Data Warehouse est défini comme un ensem
   Les données passées sont également conservées dans le Data Warehouse, contrairement à certains des systèmes transactionnels traditionnels où seules les données les plus récentes sont stockées. Afin de visualiser l’évolution des données dans le temps.
 * Non volatile  
   Une fois stockées dans l’entrepôt de données ne peuvent jamais être modifiées.
+
+* Drill-down  
+  L’opération drill-down permet la conversion des données moins détaillées en données plus détaillées par l’une des deux méthodes :  
+    * Descendre dans la hiérarchie conceptuelle ou alors, ajouter une nouvelle dimension au cube. Par exemple, en affichant les données de vente pour le calendrier civil ou le trimestre fiscal d’une organisation ou bien, effectuer un drill-down pour voir les ventes de chaque mois, en descendant dans la hiérarchie conceptuelle de la dimension « temps ».
+
+
+___
+>>> Sources  
+[IBM](https://www.ibm.com/fr-fr/topics/olap#:~:text=IBM-,Qu'est%2Dce%20que%20l'OLAP%20%3F,un%20autre%20r%C3%A9f%C3%A9rentiel%20de%20donn%C3%A9es.)  
+[Oracle](https://www.oracle.com/fr/database/data-warehouse-definition/#:~:text=Un%20Data%20Warehouse%20est%20une,pour%20une%20meilleure%20business%20intelligence.)  
