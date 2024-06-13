@@ -80,10 +80,21 @@ Une entreprise peut en avoir besoin pour ces raisons :
   Ils interrogent le DW afin de fournir des informations précieuses sur les activités de l’entreprise. Ces outils peuvent inclure des rapports, des tableaux de bord, des graphiques, des diagrammes, des analyses statistiques…
 <!-- ## **Que stocke-t-on dans un DW ?** -->
 
+<!-- ## **Les avantages et inconvénients** -->
 
+# **Les acteurs du marché du Data Warehousing**
+**Les solutions propriétaires** | **Les solutions open source**
+:-:|:-:
+_Ces solutions incombent de payer et sont souvent liée à un Cloud. Néanmoins, elles ont le gros avantage de disposer d’une documentation enrichie, de fonctionnalités d’intégration avancées et d’une utilisation relativement simple contrairement aux alternatives gratuites et open source._ | _Bien que moins représentées, Apache et très présente dans la communauté Data._
+**Amazon Redshift** est un Data Warehouse cloud d’Amazon Web Services (AWS). Connu pour ses performances élevées, sa facilité d’utilisation et son intégration avec d’autres services AWS. | Grâce à **Apache Hive** les systèmes d’information utilisant déjà l’écosystème Hadoop peuvent se greffer dessus afin de profiter de la capacité de stockage et de mise à l’échelle pour créer un Data Warehouse compatible SQL.
+**Google BigQuery** est l’équivalent d’Amazon proposé par Google Cloud Platform. Il est également connu pour ses performances élevées, sa facilité d’utilisation et sa tarification flexible basée sur l’utilisation. | **Apache Cassandra** est une base de données NoSQL distribuée conçue pour stocker de grandes quantités de données. Elle est connue pour sa haute disponibilité et sa capacité à gérer des données en temps réel.
+**Microsoft Azure Synapse Analytics** un autre équivalent, de Microsoft Azure, offrant une intégration étroite avec les outils Microsoft existants comme Power BI, ainsi qu’une tarification basée sur l’utilisation. | **ClickHouse** est une base de données en colonnes open source conçue pour le traitement de données en temps réel à grande échelle. Souvent utilisé pour les analyses de données à haute performance et les tableaux de bord interactifs.
+Snowflake a gagné en popularité ces dernières années, en partie grâce à sa facilité d’utilisation, sa compatibilité multi-cloud et sa capacité à tenir des charges de travail à grande échelle. | 
 ___
 >>> Sources  
 [IBM](https://www.ibm.com/fr-fr/topics/olap#:~:text=IBM-,Qu'est%2Dce%20que%20l'OLAP%20%3F,un%20autre%20r%C3%A9f%C3%A9rentiel%20de%20donn%C3%A9es.)  
 [Oracle](https://www.oracle.com/fr/database/data-warehouse-definition/#:~:text=Un%20Data%20Warehouse%20est%20une,pour%20une%20meilleure%20business%20intelligence.)  
 [DataScientest](https://datascientest.com/data-warehouse)  
-[YouTube](https://youtu.be/AHR_7jFCMeY)  
+[YouTube, chaîne de 365 Data Science](https://youtu.be/AHR_7jFCMeY)  
+[Blent](https://blent.ai/blog/a/data-warehouse-definitions-exemples)  
+[Youtube, chaîne de SAP](https://youtu.be/I67vax-FATo) 
