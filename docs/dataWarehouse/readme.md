@@ -80,9 +80,16 @@ Une entreprise peut en avoir besoin pour ces raisons :
   Ils interrogent le DW afin de fournir des informations précieuses sur les activités de l’entreprise. Ces outils peuvent inclure des rapports, des tableaux de bord, des graphiques, des diagrammes, des analyses statistiques…
 <!-- ## **Que stocke-t-on dans un DW ?** -->
 
-<!-- ## **Les avantages et inconvénients** -->
-
-# **Les acteurs du marché du Data Warehousing**
+## **Les avantages et inconvénients**
+Avantages | Inconvénients
+---|---
+Très utiles pour permettre aux entreprises d’accéder rapidement et facilement aux données provenant de multiples sources de manière centralisée. | Cette solution optimisée pour les données non structurées.
+La possibilité d’accéder à des informations cohérentes et à jour sur toutes les activités de l’entreprise, d’où la possibilité de générer des rapports et d’effectuer des requêtes pour interroger les données. | La création et l’implémentation d’un entrepôt de données prennent du temps et requièrent souvent beaucoup de travail. 
+Généralement, un DW réduit le temps d’analyse de données et la production de rapports et facilite ces tâches. | Paradoxalement, un Warehouse peut rapidement devenir obsolète.
+Grâce aux vastes volumes de données historiques, les utilisateurs peuvent analyser les tendances sur différentes périodes temporelles afin de réaliser des prédictions pour le futur. | Il est difficile de réaliser des changements dans les types de données, les schémas de sources de données, les index et les requêtes.
+| | L’utilisation d’une telle plateforme peut se révéler trop complexe pour l’utilisateur moyen.
+| | Les organisations doivent déployer de nombreuses ressources pour former les employés et pour implémenter le Warehouse. C’est important de peser les pours et contres avant de décider d’utiliser ce type de solution.
+## **Les acteurs du marché du Data Warehousing**
 **Les solutions propriétaires** | **Les solutions open source**
 :-:|:-:
 _Ces solutions incombent de payer et sont souvent liée à un Cloud. Néanmoins, elles ont le gros avantage de disposer d’une documentation enrichie, de fonctionnalités d’intégration avancées et d’une utilisation relativement simple contrairement aux alternatives gratuites et open source._ | _Bien que moins représentées, Apache et très présente dans la communauté Data._
@@ -90,6 +97,21 @@ _Ces solutions incombent de payer et sont souvent liée à un Cloud. Néanmoins,
 **Google BigQuery** est l’équivalent d’Amazon proposé par Google Cloud Platform. Il est également connu pour ses performances élevées, sa facilité d’utilisation et sa tarification flexible basée sur l’utilisation. | **Apache Cassandra** est une base de données NoSQL distribuée conçue pour stocker de grandes quantités de données. Elle est connue pour sa haute disponibilité et sa capacité à gérer des données en temps réel.
 **Microsoft Azure Synapse Analytics** un autre équivalent, de Microsoft Azure, offrant une intégration étroite avec les outils Microsoft existants comme Power BI, ainsi qu’une tarification basée sur l’utilisation. | **ClickHouse** est une base de données en colonnes open source conçue pour le traitement de données en temps réel à grande échelle. Souvent utilisé pour les analyses de données à haute performance et les tableaux de bord interactifs.
 Snowflake a gagné en popularité ces dernières années, en partie grâce à sa facilité d’utilisation, sa compatibilité multi-cloud et sa capacité à tenir des charges de travail à grande échelle. | 
+## **Qui utilise en utilise un ?**
+Toutes les entreprises ayant de vastes volumes de données à traiter, et/ou collectant des données à partir de sources variées. Ainsi que celles souhaitant accéder plus facilement aux données. Ils sont pertinents pour toute entreprise voulant profiter d’une aide à la décision. C’est également le cas des utilisateurs cherchant à gérer des rapports, des graphiques ou des diagrammes à partir des données.  
+Les Data Warehouses ont leur place dans tous les secteurs d’activité. Selon l’industrie, l’utilisation diffère.  
+Les compagnies aériennes analysent la rentabilité des trajets, proposent des promotions personnalisées.  
+Les banques l’exploitent pour gérer les ressources, effectuer des études de marché, ou analyser les performances de leurs différents produits.  
+Les assurances, pour analyser les tendances du marché ou le comportement des clients.  
+Dans le domaine de la santé, ils permettent de prédire les résultats d’un traitement, de produire des rapports sur les patients ou partager les données avec les compagnies d’assurance.  
+Le secteur public y collecte des données, ou pour analyser les rapports sur les taxes ou la politique de santé. Les assurances, pour analyser les tendances du marché ou le comportement des clients.  
+Les chaînes de magasins l’exploitent pour la distribution et le marketing, l’inventaire, la logistique, pour comprendre les consommateurs et pour optimiser les prix ou lancer des campagnes de promotion personnalisées.  
+Le secteur de la télécommunication ou les décisions de vente et de distributions sont basées en rapport aux données, au même titre que les campagnes promotionnelles.  
+Enfin, le tourisme et de l’hôtellerie, les campagnes publicitaires et promotionnelles peuvent être basées sur les préférences et les habitudes des voyageurs.
+# **Son avenir**
+En même temps qu’elles migrent leurs activités vers le cloud les entreprises ont tendance à migrer leurs bases de données et leurs outils de data warehousing vers le cloud. Ce dernier a de nombreux avantages, flexibilité, collaboration et accessibilité universelle. Des outils très répandus tels que Amazon Redshift, Microsoft Azure SQL Data Warehouse, Snowflake et Google BigQuery permettent de disposer de solutions simples et efficaces pour d’y stocker et analyser les données.  
+Le modèle de cloud réduit les barrières à l’entrée – en particulier le coût, la complexité et les temps de valorisation – ayant tendance jusqu’à présent à restreindre l’adoption et l’utilisation efficace. Avec le cloud, l’entreprise peut augmenter ou réduire la capacité de son DW selon ses réels besoins. De plus, les premiers pas d’une initiative de DW dans le cloud sont très faciles et très rapides : l’investissement initial est réduit et le processus de déploiement est beaucoup moins long (et beaucoup moins coûteux !) qu’un déploiement sur site.  
+Le DW en cloud élimine en grande partie les risques incontournables du DW sur site. Pas besoin de prévoir un budget ni de sourcer du matériel et des logiciels. Nul besoin de prévoir un poste budgétaire annuel pour la maintenance et le support technique. Dans le cloud, les considérations de coût qui ont traditionnellement préoccupé les équipes chargées du data warehousing –la budgétisation des mises à niveau planifiées et non planifiées – n’ont plus cours.
 ___
 >>> Sources  
 [IBM](https://www.ibm.com/fr-fr/topics/olap#:~:text=IBM-,Qu'est%2Dce%20que%20l'OLAP%20%3F,un%20autre%20r%C3%A9f%C3%A9rentiel%20de%20donn%C3%A9es.)  
@@ -97,4 +119,5 @@ ___
 [DataScientest](https://datascientest.com/data-warehouse)  
 [YouTube, chaîne de 365 Data Science](https://youtu.be/AHR_7jFCMeY)  
 [Blent](https://blent.ai/blog/a/data-warehouse-definitions-exemples)  
-[Youtube, chaîne de SAP](https://youtu.be/I67vax-FATo) 
+[Youtube, chaîne de SAP](https://youtu.be/I67vax-FATo)  
+[Talend](https://www.talend.com/fr/resources/guide-entrepot-donnees/)
