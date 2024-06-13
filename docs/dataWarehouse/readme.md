@@ -67,7 +67,18 @@ Une entreprise peut en avoir besoin pour ces raisons :
    Le Data Warehouse pour stockant toutes les données, les entreprises peuvent réduire les coûts liés au stockage et à la gestion des données. Les outils de Business Intelligence permettent également de réduire les coûts liés à la création de rapports personnalisés.
 5. **Améliorer la collaboration entre les équipes**  
    Les données peuvent être utilisées par différentes équipes, favorisant la collaboration et la prise de décision en équipe.
-## **Que stocke-t-on dans un Data Warehouse ?**
+## **De quoi est composer un DW ?**
+* **Les sources de données**  
+  Les sources d’où les données sont extraites et chargées dans le Data Warehouse. Ces sources peuvent inclure des systèmes opérationnels, des fichiers plats, des bases de données, des applications, des services web, et cætera.
+* Le processus **ETL**  
+  Permettant l’extraction des données, de les transformer en un format standardisé et de les charger dans le Data Warehouse. Ce processus implique souvent la suppression des doublons, la normalisation des données et la vérification de leur qualité.
+* **Le stockage de données**  
+  Elles y sont stockées de manière à faciliter leur analyse. Les données peuvent être dans des tables, des vues, des cubes ou des fichiers.
+* **Le modèle de données**  
+  C’est la structure définissant la manière dont les données sont organisées dans le DW. Ce modèle peut être en étoile, en flocon ou en constellation.
+* **Les outils d’analyse**  
+  Ils interrogent le DW afin de fournir des informations précieuses sur les activités de l’entreprise. Ces outils peuvent inclure des rapports, des tableaux de bord, des graphiques, des diagrammes, des analyses statistiques…
+<!-- ## **Que stocke-t-on dans un DW ?** -->
 
 
 ___
