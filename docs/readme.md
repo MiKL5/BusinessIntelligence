@@ -6,7 +6,7 @@
 [L’ETL](etl)  
 [L’analytique des données](dataAnalytics) <kbd>_Soon_</kbd>  
 [La différence entre une BDD et un Data Warehouse](bddVSdw)  
-[Le data warehouse](dataWarehouse)  
+[Le Data Warehouse](dataWarehouse)  
 [Les types de Data Warehouse](dataWarehousetype) <kbd>_Soon_</kbd>  
 [Le Data Warehouse vs le Data Mart](dwDm)  
 [Le Data Mart](dataMart)  
