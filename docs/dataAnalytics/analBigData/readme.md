@@ -1,4 +1,4 @@
-# **Comment fonctionne l’analytique du big data ?**
+# **Comment fonctionne l’analytique du big data ?** <a href="../"> <img src="../../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"> </a>
 L’analytique du big data suit cinq étapes pour analyser de grands jeux de données : 
 * Collecter les données
 * Le stockage
