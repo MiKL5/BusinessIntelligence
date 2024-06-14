@@ -8,7 +8,7 @@ L’ajout de machines à une pile existante pour répartir la charge, augmentant
 Le schéma de chaque nouvelle table est un sous-ensemble fidèle à celui de la table originelle.  
 Efficace quand les requêtes ne renvoient généralement qu’un sous-ensemble de colonnes de données.  
 
-![Les types de sharding](../../assets/sharding.png)
+![Les types de sharding](../../assets/sharding.jpg)
 ## **Les avantages et inconvénients du sharding**
 Avantages | Inconvénients
 :-:|:-:
