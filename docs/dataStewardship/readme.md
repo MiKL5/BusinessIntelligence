@@ -1,0 +1,12 @@
+# **Data stewarship (Intendance des données)** <a href="../"> <img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"> </a>
+# **Data stewarship (Intendance des données)**
+Les données avec lesquelles on travaille chaque jour sont souvent incomplètes, et parfois incorrectes. Il est possible de corriger cela en connaissant les données. Cela est impossible si l’on traite d’immenses quantités de données, ou si d’autres équipes ajoutent leurs propres données étant seules à bien connaître. N’utiliser des e-mails ou tableurs pour résoudre les problèmes de qualité de données n’est pas si efficace, et ajoute des risques liés à la prolifération de copies non contrôlées de données potentiellement sensibles dans différents dossiers, partout dans l’entreprise. Il y a besoin de règles, de processus et d’outils dédiés pour gérer la qualité des données de manière efficace et durable.
+
+L’intendance des données gère le cycle de vie des données de l’agrégation à la mise hors service, et est un composant essentiel de la gouvernance de données. Elle définit et gère les modèles de données, documente et nettoie les données, et définit les règles et politiques à suivre. Elle permet l’implémentation de processus de gouvernance des données bien définis, couvrant différentes activités, dont la surveillance, la réconciliation, l’affinage, la déduplication, le nettoyage et l’agrégation, aidant à fournir des données qualitatives aux applications et aux utilisateurs finaux.  
+Non seulement l’intendance des données améliore l’intégrité des données, et aide également à assurer une utilisation cohérente des données au sein de l’organisation, réduit l’ambiguïté des données grâce aux métadonnées et à la sémantique.  
+
+⟹ En résumé, l’intendance des données diminue les « mauvaises données », améliore les processus de prise de décision et éliminant les coûts supplémentaires dus à l’utilisation d’informations incorrectes.  
+Les tâches d’intendance des données sont généralement assignées à une équipe experte en data, les arbitres de données (ou « data stewards »). Le problème est qu’il n’y a que peu d’arbitres de données dans chaque société, se consacrant en général exclusivement aux projets à haut risque (e.g. liés à la conformité réglementaire). Si aucun arbitre de données n’est disponible, personne n’est responsable de la qualité des données. C’est ainsi que l’on parvient à cette situation.
+___
+>>> Source  
+[Talend](https://www.talend.com/fr/resources/what-is-data-stewardship/)
