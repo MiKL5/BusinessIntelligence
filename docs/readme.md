@@ -18,6 +18,7 @@
 [L’OLTP](oltp)  
 [L’OLAP](olap)  
 [Le silo de données](dataSilo)  
-[Le PoC](poc)
+[Le PoC](poc)  
+[Le sharding](sharding)  
 
 <div align="center"><br><a href="../"><img src="../assets/bi.jpg"></a></div>
