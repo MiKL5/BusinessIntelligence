@@ -1,4 +1,4 @@
-# **Quelle est la différence entre base de données et entrepôt de données ?** <a href="../../"> <img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"> </a>
+# **Quelle est la différence entre base de données et entrepôt de données ?** <a href="../"> <img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"> </a>
 Bien que les deux stocks des données, il ont des fins défférentes.
 La base de données stocke, gère de manière structurée les données <!-- les transactions courantes --> pour les applications opérationnelles quotidiennes d’une organisation, elle et permet un accès rapide à des transactions spécifiques notamment grâce aux technologies d’indexation. Elle est conçue pour les transactions en temps réel, les mises à jour fréquentes et les requêtes transactionnelles.  
 Une BDD est généralement normalisée, ce qui signifie qu’il existe une copie unique de chaque donnée.  

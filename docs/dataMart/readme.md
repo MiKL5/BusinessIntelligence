@@ -1,4 +1,4 @@
-# **Le Data Mart** <a href="../../"><img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# **Le Data Mart** <a href="../"><img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
 Un data mart est une forme simple de data warehouse axé sur un seul sujet ou un seul secteur d’activité.  
 Avec un data mart, les équipes peuvent accéder aux données et obtenir des informations plus rapidement, n’ayant pas besoin de temps pour faire la recherche dans un data warehouse plus complexe, ni agréger manuellement les données de différentes sources.  
 

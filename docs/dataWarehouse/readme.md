@@ -1,4 +1,4 @@
-# **Data Warehouse** <a href="../../"> <img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"> </a>
+# **Data Warehouse** <a href="../"> <img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"> </a>
 L’entrepôt des données est un grand référentiel central.  
 
 Un Data Warehouse est une base de données relationnelle hébergée sur un serveur dans un [Data Center](../dataCenter) ou dans le [Cloud](../cloud). Il recueille des données de sources variées et hétérogènes dans le but principal de soutenir l’analyse et faciliter la prise de décision. Concernant l’intégration dans le système de données existant, le fonctionnement du Data Warehouse est basé sur le processus [ETL (Extract, Tranform, Load)](../etl) permettant de charger les données issues des différentes applications.

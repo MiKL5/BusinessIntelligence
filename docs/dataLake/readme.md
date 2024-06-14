@@ -1,4 +1,4 @@
-# **Le Data Lake** <a href="../../"><img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# **Le Data Lake** <a href="../"><img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
 L’ancien directeur technique de Pentaho en est l’inventeur. Un data lake est un environnement de stockage à faible coût, qui héberge généralement des pétaoctets de données brutes. Contrairement à un entrepôt de données (DW), un data lake peut stocker à la fois des données structurées et non structurées, et ne nécessite pas de schéma défini pour les stocker. C’est une caractéristique connue sous le nom de « schéma en lecture ». Cette flexibilité en matière de stockage est particulièrement essentielle pour les data scientists, les ingénieurs en traitement de données ainsi que les développeurs ; elle leur permet d’accéder aux données pour des exercices de découverte de données et des projets de machine learning.
 
 Alors que les utilisateurs trouvent de la valeur dans les data lakes, certains peuvent être victimes de devenir des marécages de données ou des puits de données.  
