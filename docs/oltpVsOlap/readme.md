@@ -1,4 +1,4 @@
-# **La différence entre OLTP et OLAP**
+# **La différence entre OLTP et OLAP** <a href="../../"><img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
 Apparemment analogues ces concepts constituent deux systèmes de traitement de données en ligne et divergent considérablement.
 
 OLTP permet l’exécution en temps réel d’un grand nombre de transactions par un grand nombre de personnes, contrairement au traitement analytique en ligne (OLAP) consistant généralement à interroger ces transactions (appelées enregistrements) dans une base de données à des fins analytiques. L’OLAP aide les sociétés à extraire des informations à partir de leurs données de transaction afin de les exploiter pour prendre des décisions plus éclairées.

@@ -12,7 +12,9 @@
 [Les types de Data Warehouse](dataWarehousetype) <kbd>_Soon_</kbd>  
 [Le Data Warehouse vs le Data Mart](dwDm)  
 [Le Data Mart](dataMart)  
-[Le data Lake](dataLake/) <kbd>_Soon_</kbd>  
+[Le data Lake](dataLake/)  
 [La différence entre OLTP et OLAP](oltpVsOlap)  
 [L’OLTP](oltp)  
 [L’OLAP](olap)  
+[Le silo de données](dataSilo)  
+[Le PoC](poc)
