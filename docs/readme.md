@@ -19,3 +19,5 @@
 [L’OLAP](olap)  
 [Le silo de données](dataSilo)  
 [Le PoC](poc)
+
+<div align="center"><br><a href="../"><img src="../assets/bi.jpg"></a></div>
