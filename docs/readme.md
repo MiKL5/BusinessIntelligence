@@ -4,13 +4,13 @@
 [La différence entre la gérance des données et la business intelligence](other/DSvsBI)  
 [Le Big Data](other/bigData)  
 
-[Le cloud](cloud)
-<!-- [Data steawardship](dataStewardship)   -->
+[Le cloud](cloud)  
+[Data steawardship](dataStewardship)  
 [L’ETL](etl)  
-[L’analytique des données](dataAnalytics) <kbd>_Soon_</kbd>  
+[L’analytique des données](dataAnalytics)  
 [La différence entre une BDD et un Data Warehouse](bddVSdw)  
 [Le Data Warehouse](dataWarehouse)  
-[Les types de Data Warehouse](dataWarehousetype) <kbd>_Soon_</kbd>  
+[Les types de Data Warehouse](dataWarehousetype)  
 [Le Data Warehouse vs le Data Mart](dwDm)  
 [Le Data Mart](dataMart)  
 [Le data Lake](dataLake/)  
