@@ -10,7 +10,7 @@
 7. Comprendre l’objecif de l’entreprise
 8. Clarifier l’objectif de son département
 9. Séléctionner les indicateurs de performence
-<!-- 10. Limites et utilité de ces derniers -->
+10. Limites et utilité ces derniers
 <!-- 11. Mesurer sa performance -->
 <!-- 12. Visualiser l'évolution de sa performance -->
 <!-- 13. Créer un fichier de suivi -->
