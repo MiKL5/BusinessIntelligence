@@ -11,8 +11,8 @@
 8. Clarifier l’objectif de son département
 9. Séléctionner les indicateurs de performence
 10. Limites et utilité ces derniers
-<!-- 11. Mesurer sa performance -->
-<!-- 12. Visualiser l'évolution de sa performance -->
-<!-- 13. Créer un fichier de suivi -->
-<!-- 14. Appliquer ces principes à son propre travail -->
+11. Mesurer sa performance
+12. Visualiser l’évolution de sa performance
+13. Créer un fichier de suivi
+14. Appliquer ces principes à son propre travail
 <!-- ## Savoir si l’action est une réussite -->
