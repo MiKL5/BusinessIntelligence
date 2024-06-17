@@ -15,4 +15,14 @@
 12. Visualiser l’évolution de sa performance
 13. Créer un fichier de suivi
 14. Appliquer ces principes à son propre travail
-<!-- ## Savoir si l’action est une réussite -->
+## Savoir si l’action est une réussite
+15. Identifier la cible
+16. Sélectionner des indicateurs pour suivre l’impact
+17. Les méthodes simples pour mesurer l’impact
+18. La méthode statistique pour mesurer l’impact A/B test
+19. Choisir la méthode de mesure
+<!-- 20. Nettoyer les données pour les analyser -->
+<!-- 21. Analyser, évaluer l'impact et conclure via A/B test -->
+<!-- 22. Nettoyer les données et analyser l'impact -->
+<!-- ## Comment choisir et convevoir la prochaine action -->
+<!-- 23. Identifier les points de friction qualitativement -->
