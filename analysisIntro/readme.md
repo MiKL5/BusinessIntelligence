@@ -28,12 +28,12 @@
 ## Choisir et concevoir la prochaine action
 23. Identifier les points de friction qualitativement
 24. Identifier les points de friction quantitativement
-<!-- 25. Confirmer les problèmes décelés -->
-<!-- 26. Calculer un taux de conversion -->
-<!-- 27. Déterminer l'action à mener -->
-<!-- ## Comprendre pouquoi les résultats diminuent -->
-<!-- 28. Poser la bonne question -->
-<!-- 29. Découper ke problème en sous question -->
+25. Confirmer les problèmes décelés
+26. Calculer un taux de conversion
+27. Déterminer l’action à mener
+## Comprendre pouquoi les résultats diminuent
+28. Poser la bonne question
+<!-- 29. Découper le problème en sous question -->
 <!-- 30. Faire un arbre de décision -->
 <!-- 31. Répondre aux sous question -->
 <!-- 32. Adapter la modélisaton pour estimer l'impact d'un nouveau produit -->

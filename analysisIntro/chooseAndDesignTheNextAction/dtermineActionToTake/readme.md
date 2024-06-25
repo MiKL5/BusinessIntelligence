@@ -1,0 +1,6 @@
+# Déterminer l’action à mener
+Il faut commencer par bien identifer la cible. Sur qui faut-il avoir un impact et quel changement de comportement faut-il ?  
+Puis, la forme (canal) de l’action. S’adresser directment aux utilisateurs (par e-mail, d’un texte sur le site, un bandeau, un article de post sur les réseaux sociaux, …). Ou les affecter directement (en modifiant l’ergonomie du site. ajotant une option, modifiant la stucture des e-mails).  
+La temporalité de l’action (ponctuelle, répétée ou changeemnt pérenne).  
+Puis, suivre l’impact de l’action. Pour une action ponctuelle, le suivi serait léger, alors qu’une action répétées souvant doit être mesurée plus fiablement pour ne pas avoir d’impact négatif. La méthode de comparaison permet de mesurer l’impact de l’action. Pour les méthodes valeur initiale ou passée, il faut faire une mesure avnat le test.  
+L’estimation de la durée du test à lieu en dernier et à partir de quel moment on doit déterminé si l’action sera répétée et/ou étendue à toute la population. 
