@@ -27,7 +27,7 @@
 23. Appliquer ces principes au travail
 ## Choisir et concevoir la prochaine action
 23. Identifier les points de friction qualitativement
-<!-- 24. Identifier les points de friction quantitativement -->
+24. Identifier les points de friction quantitativement
 <!-- 25. Confirmer les problèmes décelés -->
 <!-- 26. Calculer un taux de conversion -->
 <!-- 27. Déterminer l'action à mener -->
