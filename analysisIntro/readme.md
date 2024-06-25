@@ -21,8 +21,25 @@
 17. Les méthodes simples pour mesurer l’impact
 18. La méthode statistique pour mesurer l’impact A/B test
 19. Choisir la méthode de mesure
-<!-- 20. Nettoyer les données pour les analyser -->
-<!-- 21. Analyser, évaluer l'impact et conclure via A/B test -->
-<!-- 22. Nettoyer les données et analyser l'impact -->
-<!-- ## Comment choisir et convevoir la prochaine action -->
-<!-- 23. Identifier les points de friction qualitativement -->
+20. Nettoyer les données pour les analyser
+21. Analyser, évaluer l’impact et conclure via A/B test
+22. Nettoyer les données et analyser l’impact
+23. Appliquer ces principes au travail
+## Choisir et concevoir la prochaine action
+23. Identifier les points de friction qualitativement
+<!-- 24. Identifier les points de friction quantitativement -->
+<!-- 25. Confirmer les problèmes décelés -->
+<!-- 26. Calculer un taux de conversion -->
+<!-- 27. Déterminer l'action à mener -->
+<!-- ## Comprendre pouquoi les résultats diminuent -->
+<!-- 28. Poser la bonne question -->
+<!-- 29. Découper ke problème en sous question -->
+<!-- 30. Faire un arbre de décision -->
+<!-- 31. Répondre aux sous question -->
+<!-- 32. Adapter la modélisaton pour estimer l'impact d'un nouveau produit -->
+<!-- ## Astuces -->
+<!-- 33. Renenor au problème -->
+<!-- 34. Mettre l'analyse par écrit -->
+<!-- 35. Connaître les limites des données -->
+<!-- 36. Vérifier les chiffres -->
+<!-- 37. Présenter l'analyse -->
