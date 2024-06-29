@@ -1,4 +1,4 @@
-# Introduction à l’analyse pour les non-data analystes
+# Introduction à l’analyse pour les non-data analystes <a href="../"><img src="../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
 1. Définition
 2. Termes et concepts
 3. Et si l’on a pas de données
@@ -38,7 +38,7 @@
 31. Répondre aux sous question
 32. Adapter la modélisaton pour estimer l’impact d’un nouveau produit
 ## Astuces
-<!-- 33. Renenor au problème -->
+33. Revenir au problème
 <!-- 34. Mettre l'analyse par écrit -->
 <!-- 35. Connaître les limites des données -->
 <!-- 36. Vérifier les chiffres -->
