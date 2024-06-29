@@ -37,7 +37,7 @@
 30. Faire un arbre décisionnel
 31. Répondre aux sous question
 32. Adapter la modélisaton pour estimer l’impact d’un nouveau produit
-<!-- ## Astuces -->
+## Astuces
 <!-- 33. Renenor au problème -->
 <!-- 34. Mettre l'analyse par écrit -->
 <!-- 35. Connaître les limites des données -->
