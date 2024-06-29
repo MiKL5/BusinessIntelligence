@@ -33,8 +33,8 @@
 27. Déterminer l’action à mener
 ## Comprendre pouquoi les résultats diminuent
 28. Poser la bonne question
-<!-- 29. Découper le problème en sous question -->
-<!-- 30. Faire un arbre de décision -->
+29. Découper le problème en sous question
+<!-- 30. Faire un arbre décisionnel -->
 <!-- 31. Répondre aux sous question -->
 <!-- 32. Adapter la modélisaton pour estimer l'impact d'un nouveau produit -->
 <!-- ## Astuces -->

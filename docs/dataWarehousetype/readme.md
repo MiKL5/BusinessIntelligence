@@ -17,7 +17,7 @@ Techniquement différent, un Data Lake est souvent mentionné en parallèle des 
 
 7. **Le Data Vault**  
 Le Data Vault est une méthodologie et une architecture flexible et évolutive construisant des entrepôts de données. Utilisant une approche orientée vers les hubs, les liens et les satellites pour gérer les données historiques et faciliter les changements.
-<div align="center"><a href="#"><img src="../../assets/grumpyCloud.jpg" alt="Cloud"></a><br><br></div>
+<div align="center"><a href="#"><img src="../../assets/vaultCloud.jpg" alt="Cloud"></a><br><br></div>
 
 
 Chaque type de Data Warehouse a ses avantages et inconvénients, et le choix dépend souvent des besoins spécifiques de l’organisation, de la complexité des données et des exigences analytiques.
