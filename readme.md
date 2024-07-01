@@ -17,6 +17,6 @@ ___
 <div align="center"><br><a href="docs"><img src="assets/bidw.jpg" alt="Business Intelligence"></a><br><br><br></div>
 
 <!-- ___ -->
-<div align="center"><h3><b>Contenu connexe</b></h3></div>
+<div align="center"><h3><b>Contenu connexe</b></h3>
 
 [Les intelligences artificielles](https://github.com/MiKL5/artificialIntelligence/tree/master/)
