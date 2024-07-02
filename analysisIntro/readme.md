@@ -39,7 +39,7 @@
 32. Adapter la modélisaton pour estimer l’impact d’un nouveau produit
 ## Astuces
 33. Revenir au problème
-<!-- 34. Mettre l'analyse par écrit -->
+34. Mettre l’analyse par écrit
 <!-- 35. Connaître les limites des données -->
 <!-- 36. Vérifier les chiffres -->
 <!-- 37. Présenter l'analyse -->
