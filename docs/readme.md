@@ -21,4 +21,19 @@
 [Le PoC](poc)  
 [Le sharding](sharding)  
 
+## **Les algorithmes**
+### **Les algorithmes de parcours**
+[L’algorithme de parcous et la Business Intelligence](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/path)  
+[L’algorithme de parcoues en prodondeur DFS](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/dfs)  
+[L’algorithme de parcours en largeur BFS](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/search)  
+### **Les algorithmes de recherches**
+[Les algorithme de recherche](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/search)
+[L’algorithme de recherche de chemin A*](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/a)  
+[L’algorithme de recherche de chemin tabou](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/tabou)  
+[L’algorithme glouton](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/glouton)  
+[L’algorithme de force brute](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/brutForce)  
+[Algorithme de recherche hybride](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/hybride)
+
+[La différences entre algorithme de parcours et algorithme de recherche](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/pathVsSearch)
+
 <div align="center"><br><a href="../"><img src="../assets/bi.jpg"></a></div>
