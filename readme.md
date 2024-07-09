@@ -1,4 +1,4 @@
-# **Business intelligence** <a href="https://github.com/MiKL5/"><img src="assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+<h1 align="center"><b>Business intelligence</b> <a href="https://github.com/MiKL5/"><img src="assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a></h1>
 <div align="center">
 
 [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi)  
