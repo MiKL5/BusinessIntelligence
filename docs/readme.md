@@ -33,7 +33,7 @@
 [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/path)  
 [L’algorithme de parcoues en prodondeur DFS](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/dfs)  
 [L’algorithme de parcours en largeur BFS](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/search)  
-[L’algorithme de parcours de graph tri topologique](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/topologicalSort)  
+[L’algorithme de parcours de graph (en profondeur) tri  topologique](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/topologicalSort)  
 <!-- [L'algorithme de Dijkstra](algo/Dijkstra)   -->
 <!-- [L’algorithme de Kahn](algo/Kahn)   -->
 
