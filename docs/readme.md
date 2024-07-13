@@ -4,7 +4,7 @@
 [La différence entre la gérance des données et la business intelligence](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/DSvsBI)  
 [Le Big Data](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bigData)  
 [Le cloud](cloud)  
-
+-
 [Data steawardship](dataStewardship)  
 [L’analytique des données](dataAnalytics)  
 [L’ETL](etl)  
