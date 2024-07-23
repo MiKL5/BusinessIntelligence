@@ -38,7 +38,7 @@
 > [L’algorithme de Dijkstra](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/Dijkstra)  
 > [L’algorithme de Kahn](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/topologicalSort)  
 > [L’algorithme de Tarjan](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/tarjan)  
-> [L’algorithme de Kahn vs l’algorithme de Tarjan](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/KahnVsTarjan)  
+> [L’algorithme de Kahn vs l’algorithme de Tarjan](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/kahnVsTarjan)  
 
 [La différences entre algorithme de parcours et algorithme de recherche](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/pathVsSearch)
 
