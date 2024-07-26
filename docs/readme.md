@@ -46,6 +46,6 @@
 [S’assurer que les modèles d’apprentissage automatique respectent les principes éthiques et de non-discrimination](algo/EthicalNon-discriminationPrinciples)
 
 ___
-###### [Probabilité statistiques pour la Data Science](../productivityAndStatistics4DataScienceAndBusiness) <kbd>wip</kbd>
+###### [**Probabilité statistiques pour la Data Science**](../productivityAndStatistics4DataScienceAndBusiness) <kbd>wip</kbd>
 
 <div align="center"><br><a href="../"><img src="../assets/bi.jpg"></a></div>
