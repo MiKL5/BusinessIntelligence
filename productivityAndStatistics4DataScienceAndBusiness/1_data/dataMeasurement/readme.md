@@ -2,6 +2,7 @@
 ## **Les niveaux de mesure ou types de variable**
 ### Types de valeurs qualitatives ou catégorielles
 #### **Variables nominales**
+_[Décrit la catégorie d’industrie dont relève une entreprise]_
 Il s’agit de catégories prédéterminées ayant un nom.  
 Elles ne sont pas triables (e.g. la classification des animaux, les partis politiques, …).  
 Le seul calcul réalisable sur les variables nominales est le nombre d’éléments par catégorie.
@@ -20,6 +21,7 @@ Analogues aux variables ordinales, mais l’intervalle entre deux catégories a 
 
 Il faut privilégier les quantités continues mesurables comme des profits ou le temps, qui ont un plancher et sont comparables aux ratios ou rapports.
 #### **Les ratios ou rapports**
+_[Décrit le profit net ou la perte qu’une entreprose peut enregistrer dans l’année]_
 Sont des variables d’intervalles ayant un plancher.  
 Elles ne peuvent pas être négatives (e.g. poids, âges, salaire, distances) qui sont des valeurs de ratio et sont réellement situées sur une échelle de valeur.
 
