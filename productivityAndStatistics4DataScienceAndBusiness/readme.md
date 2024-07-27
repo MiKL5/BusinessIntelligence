@@ -5,8 +5,8 @@
 3. Mesure de la tendance centrale
 4. Mesures de dispersion
 5. Mesure de quartiles
-<!-- 6. Données Bi-variées et Covariance -->
-<!-- 7. Coefficient de corrélation de Pearson -->
+6. Données Bi-variées et Covariance
+7. Coefficient de corrélation de Pearson
 <!-- ## **Les probabilité** -->
 <!-- ## **Les distributions de probalités** -->
 <!-- ## **Les statistiques** -->
