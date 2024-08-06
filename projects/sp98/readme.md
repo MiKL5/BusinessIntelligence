@@ -3,7 +3,7 @@
 
 À partir de Google Big Query, importer le fichier CSV contenant les données nettoyées.
 Créer la requête SQL pour récupérer le Sans-plomb 98 à Lisieux dans le Calvados.  
-**⟶** Les [requêtes SQL](queries/).  
+**⟶** Les [requêtes SQL](queries/)  
 **⟶** <a href="https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sfirstproject-35340!2sfr_carburants"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="Google Big Query" height="18px"> </a> [Le projet](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sfirstproject-35340!2sfr_carburants)
 
 Avec Google Looker Studio, créer le dashbord. Il doit être clair et intuitif.  

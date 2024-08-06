@@ -1,4 +1,4 @@
-</b> <a href="https://github.com/MiKL5/BI/"><img src="../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a></h1>
+</b> <a href="../"><img src="../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a></h1>
 
 [Quelques termes et concepts](../analysisIntro/intro/termsAndConcepts)  
 [La gérance des données](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/dataStewarding)  
