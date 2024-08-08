@@ -5,7 +5,6 @@
 -
 
 <b><i>La Business Intelligence ou intelligence d’affaires en français, est un ensemble de technologies, de processus et de méthodologies permettant de collecter, analyser et transformer des données brutes en informations significatives et utiles pour les prises de décision en entreprise.</i></b><br><br></div>
-
 ___
 
 <br>
@@ -18,7 +17,7 @@ ___
 
 
 <div align="center"><br><a href="docs"><img src="assets/bidw.jpg" alt="Business Intelligence"></a><br><br><h3><b>Projets</b></h3>
-<a href="projects/sp98" >Projet fr_carburants <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="Google Big Query" align="center" height="18px"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="center" height="18px"> </a>  
+<a href="projects/sp98">Fr_carburants <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="Google Big Query" align="center" height="18px"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="center" height="18px"> </a>  
 
 <h3><a href="docs" alt="Documentation">Documentation</a></h3><br>
 ___
