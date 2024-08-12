@@ -17,6 +17,11 @@
 14. Régles d’additions et de multiplication
 15. Théories de Bayes
 <!-- ## **Les distributions de probalités** -->
+<!-- 16. Distribution uniforme -->
+<!-- 17. Distribution binomiale -->
+<!-- 18. Distribution normale -->
+<!-- 19. Distribution normale - Formules et Z-scores -->
+<!-- 20. Scripts Dash -->
 <!-- ## **Les statistiques** -->
 <!-- ## **Analyse de la variance (ANOVA)** -->
 <!-- ## **La régression** -->
