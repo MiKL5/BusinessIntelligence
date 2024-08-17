@@ -16,13 +16,13 @@ ___
 [Locker Studio](projects/sp98) <a href=""> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="left" height="18px"> </a>   -->
 
 
-<div align="center"><br><a href="docs"><img src="assets/bidw.jpg" alt="Business Intelligence"></a><br><br><h3><b>Projets</b></h3></div>
-<a href="https://github.com/MiKL5/PowerBI/tree/master/3_cinema">TP - Cinéma <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="left" height="18px"> </a>
+<div align="center"><br><a href="docs"><img src="assets/bidw.jpg" alt="Business Intelligence"></a><br><br><h3><b>Projets</b></h3>
+<a href="https://github.com/MiKL5/PowerBI/tree/master/3_cinema">TP - Cinéma <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>
 
-<a href="https://github.com/MiKL5/PowerBI/tree/master/6_rapportCinema">TP - Création de rapport <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="left" height="18px"> </a>  
-<a href="https://github.com/MiKL5/PowerBI/tree/master/8_tpDax">TP - Langage DAX <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="left" height="18px"> </a>  
+<a href="https://github.com/MiKL5/PowerBI/tree/master/6_rapportCinema">TP - Création de rapport <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>  
+<a href="https://github.com/MiKL5/PowerBI/tree/master/8_tpDax">TP - Langage DAX <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>  
 
-<a href="projects/sp98">Analyse et visualisation de données “Fr_carburants” <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="Google Big Query" align="left" height="18px"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="left" height="18px"> </a>  
+<a href="projects/sp98">Analyse et visualisation de données “Fr_carburants” <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png"  alt="Google Big Query" align="center" height="18px"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="center" height="18px"> </a>  
 
 <br><br><div align="center"><h3><a href="docs" alt="Documentation">Documentation</a></h3><br>
 ___
