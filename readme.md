@@ -16,7 +16,7 @@ ___
 [Locker Studio](projects/sp98) <a href=""> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="left" height="18px"> </a>   -->
 
 
-<div align="center"><br><a href="docs"><img src="assets/bidw.jpg" alt="Business Intelligence"></a><br><br><h3><b>Projets</b></h3>
+<div align="center"><br><a href="docs"><img src="assets/bidw.jpg" alt="Business Intelligence" width="400"></a><br><br><h3><b>Projets</b></h3>
 <a href="https://github.com/MiKL5/PowerBI/tree/master/3_cinema">TP - Cinéma<img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>
 
 <a href="https://github.com/MiKL5/PowerBI/tree/master/6_rapportCinema">TP - Création de rapport<img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>  
