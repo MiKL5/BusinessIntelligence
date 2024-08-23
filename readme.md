@@ -21,7 +21,8 @@ ___
 
 <a href="https://github.com/MiKL5/PowerBI/tree/master/6_rapportCinema">TP - Création de rapport<img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>  
 <a href="https://github.com/MiKL5/PowerBI/tree/master/8_tpDax">TP - Langage DAX<img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>  
-<a href="https://github.com/MiKL5/PowerBI/blob/master/9_tpVentes">TP - Chiffre d’Affaires des ventes<img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>  
+<a href="https://github.com/MiKL5/PowerBI/blob/master/9_tpVentes">Chiffres d’affaires des ventes<img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>  
+<!-- <a href="https://github.com/MiKL5/PowerBI/blob/master/10_tpVentes1">Analyse des ventes<img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>   -->
 
 <a href="projects/sp98">Analyse et visualisation de données “Fr_carburants”<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png"  alt="Google Big Query" align="center" height="18px"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="center" height="18px"> </a>  
 
