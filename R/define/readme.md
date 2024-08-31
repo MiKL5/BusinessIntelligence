@@ -1,6 +1,6 @@
 # **Langage R**
 Le “R” est un outil idéal pour analyser des données simplement et efficacement.  
-<!-- Il fait office de figure centrale, simplifiant la tâche en garantissant un résulat optimal. -->  
+<!-- Il fait office de figure centrale, simplifiant la tâche en garantissant un résulat optimal.   -->
 
 “R” est un langage de programmation orienté objet et open-source spécialisé dans la data. Il a été développer par et pour des statisticiens. Ce qui lui permet d’être parfaitent adapté pour les analyses de données. Cepandant, grâce à des framework, il peut être utiliser pour développer un site web ou en Machine Learning.  
 Comparativement, Python est généraliste, et développer par des personnes mélant informatique et mathématiques. R et Python <!-- ne sont pa antagonistes, --> sont complémentaires.  
