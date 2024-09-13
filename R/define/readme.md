@@ -22,4 +22,6 @@ En réaction à la diversité, certains packages sont préchargés dans l’IDE 
 [CRAN R project](https://cran.r-project.org/) est le site recenssant les versions de R ainsi que différents packages.
 
 ___
-[Tout savoir sur le langage de programmation R](https://www.intelligence-artificielle-school.com/langage-programmation/langage-de-programmation-r/#:~:text=R%20est%20un%20langage%20et,pour%20d%C3%A9velopper%20des%20programmes%20robustes.)
+[Tout savoir sur le langage de programmation R](https://www.intelligence-artificielle-school.com/langage-programmation/langage-de-programmation-r/#:~:text=R%20est%20un%20langage%20et,pour%20d%C3%A9velopper%20des%20programmes%20robustes.)  
+
+R est sensible à la casse.
