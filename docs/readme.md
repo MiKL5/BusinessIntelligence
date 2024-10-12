@@ -21,7 +21,6 @@
 [Le silo de données](dataSilo)  
 [Le PoC](poc)  
 [Le sharding](sharding)  
-
 ## **Les algorithmes**
 > ### **Les algorithmes de recherche**
 > [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/search)
