@@ -47,4 +47,7 @@
 <!-- ___
 ###### [**Probabilité statistiques pour la Data Science**](../productivityAndStatistics4DataScienceAndBusiness) <kbd>wip</kbd> -->
 
+___
+<!-- [Le langage R](../R/define) -->
+
 <div align="center"><br><a href="../"><img src="../assets/bi.jpg" width="400"></a></div>
