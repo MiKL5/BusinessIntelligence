@@ -15,15 +15,15 @@
 [Le Data Warehouse vs le Data Mart](dwDm)  
 [Le Data Mart](dataMart)  
 [Le data Lake](dataLake/)  
-[La différence entre OLTP et OLAP](oltpVsOlap)  
 [L’OLTP](oltp)  
 [L’OLAP](olap)  
+[La différence entre OLTP et OLAP](oltpVsOlap)  
 [Le silo de données](dataSilo)  
 [Le PoC](poc)  
 [Le sharding](sharding)  
 ## **Les algorithmes**
 > ### **Les algorithmes de recherche**
-> [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/search)
+> [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/search)  
 > [L’algorithme de recherche de chemin A*](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/a)  
 > [L’algorithme de recherche de chemin tabou](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/tabou)  
 > [L’algorithme glouton](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/glouton)  
