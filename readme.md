@@ -30,6 +30,8 @@ ___
 ___
 <h3><b>Contenu connexe</b></h3>
 
-[Les intelligences artificielles](https://github.com/MiKL5/artificialIntelligence/tree/master/)  
+[Intelligence artificielle](https://github.com/MiKL5/artificialIntelligence)  
 [Data Science](https://github.com/MiKL5/DS)  
-<!-- [Machine Learning](https://github.com/MiKL5/ML) -->
+[Machine Learning](https://github.com/MiKL5/machineLearning)  
+<!-- [IOT and AIoT](https://github.com/MiKL5/aiot)  -->
+<!-- [Robotique](https://github.com/MiKL5/robotics)   -->
