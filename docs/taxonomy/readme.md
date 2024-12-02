@@ -18,3 +18,5 @@ La taxonomie de la BI est fondamentale pour
 * **Améliorer la prise de décision**, car elle comprend les dimensions de cette dernière. Ainsi les entreprises peuvent mieux choisir les outils et stratégies qui répondent à leurs besoins.
 
 _**⟹ Cet outils est essentiel pour structurer et comprendre les facettes de cette discipline afin de permettre une meilleure applications dans des contenus variés.**_
+___
+>>> Cf.  
