@@ -20,3 +20,6 @@ La taxonomie de la BI est fondamentale pour
 _**⟹ Cet outils est essentiel pour structurer et comprendre les facettes de cette discipline afin de permettre une meilleure applications dans des contenus variés.**_
 ___
 >>> Cf.  
+[Taxonomie de la Business intelligence - springer](https://link.springer.com/chapter/10.1007/978-3-642-53737-0_10)  
+[Taxonomie et archétypes de l’analyse commerciale dans la fabrication intelligente - acm.org](https://dl.acm.org/doi/10.1145/3583581.3583584)  
+[Frontiers of business intelligence and analytics 3.0: a taxonomy-based literature review and research agenda](https://link.springer.com/article/10.1007/s40685-020-00108-y)
