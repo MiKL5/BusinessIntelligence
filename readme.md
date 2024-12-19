@@ -11,6 +11,8 @@ ___
 
 [PostgreSQL](https://github.com/MiKL5/PostgreSQL) <a href="https://github.com/MiKL5/PostgreSQL"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" align="left" height="18px"> </a>  
 [MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"> <img src="assets/mongodb_original_logo_icon_146424.svg" alt="MongoDB" align="left" height="18px"> </a>  
+<!-- [Microsoft SQL Server](https://github.com/MiKL5/SQLserver) <a href="https://github.com/MiKL5/SQLServer"> <img src="assets/Microsoft_SQL_Server.svg" alt="SQL Server" align="left" height="18px"> </a>   -->
+
 
 [Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"> <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="left" height="18px"> </a>  
 [Google Big Query](projects/sp98) <a href=""> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="Google Big Query" align="left" height="18px"> </a>  
