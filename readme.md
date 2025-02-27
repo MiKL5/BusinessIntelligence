@@ -27,7 +27,7 @@ ___
 <a href="https://github.com/MiKL5/PowerBI/blob/master/9_tpVentes">Chiffres d’affaires des ventes <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>  
 <a href="https://github.com/MiKL5/PowerBI/blob/master/10_tpVentes1">Analyse des ventes <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="18px"> </a>  
 
-<a href="projects/sp98">Analyse et visualisation de données “Fr_carburants” <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png"  alt="Google Big Query" align="center" height="18px"><img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="center" height="18px"> </a>  
+<a href="projects/sp98">Analyse et visualisation de données “Fr_carburants” <a href=""> <img src="https://www.gstatic.com/bricks/image/d1a2346b57ea1c97bc4f8f01f289616f45c33d66bcd5b1372252fce3533cae4a.svg" alt="Google Big Query" align="center" height="18px"> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="center" height="18px"> </a>  
 
 <!-- <br><div align="center"><h3><a href="docs" alt="Documentation">Documentation</a></h3><br> -->
 ___
