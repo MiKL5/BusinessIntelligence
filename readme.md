@@ -15,7 +15,7 @@ ___
 
 
 [Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"> <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="left" height="18px"> </a>  
-[Google Big Query](projects/sp98) <a href=""> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="Google Big Query" align="left" height="18px"> </a>  
+[Google Big Query](projects/sp98) <a href=""> <img src="https://www.gstatic.com/bricks/image/d1a2346b57ea1c97bc4f8f01f289616f45c33d66bcd5b1372252fce3533cae4a.svg" alt="Google Big Query" align="left" height="18px"> </a>  
 [Locker Studio](projects/sp98) <a href=""> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="left" height="18px"> </a>  
 
 
