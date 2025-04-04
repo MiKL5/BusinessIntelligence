@@ -1,8 +1,8 @@
-<h1 align="center"><b>Business intelligence</b> <a href="https://github.com/MiKL5/"><img src="assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a></h1>
+<h1 align="center"><b><a href="https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi">Business intelligence</a></b> <a href="https://github.com/MiKL5/"><img src="assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a></h1>
 <div align="center">
 
-[Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi)  
--
+<!-- [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi)  
+- -->
 
 <b><i>La Business Intelligence ou intelligence d’affaires en français, est un ensemble de technologies, de processus et de méthodologies permettant de collecter, analyser et transformer des données brutes en informations significatives et utiles pour les prises de décision en entreprise.</i></b><br><br></div>
 ___
