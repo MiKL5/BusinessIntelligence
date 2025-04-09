@@ -18,7 +18,8 @@ ___
 <!-- [Google Big Query](projects/sp98) <a href=""> <img src="https://www.gstatic.com/bricks/image/d1a2346b57ea1c97bc4f8f01f289620f45c33d66bcd5b1372252fce3533cae4a.svg" alt="Google Big Query" align="left" height="20px"> </a>  
 [Locker Studio](projects/sp98) <a href=""> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="left" height="20px"> </a>   -->
 
-<br><div align="center"><br><a href="docs"><img src="assets/bidw.jpg" alt="Business Intelligence" width="400"></a><br><br><h3><b>Projets</b></h3>
+<br><div align="center"><br>
+<a href="docs"><img src="assets/bidw.jpg" alt="Business Intelligence" width="400"></a><br><br><h3><b>Projets</b></h3>
 <a href="https://github.com/MiKL5/PowerBI/tree/master/3_cinema">Cinéma <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="20px"> </a>  
 <a href="https://github.com/MiKL5/PowerBI/tree/master/6_rapportCinema">Création de rapport <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="20px"> </a>  
 <a href="https://github.com/MiKL5/PowerBI/tree/master/8_tpDax">Langage DAX <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/powerBi.png" alt="Power BI" align="center" height="20px"> </a>  
@@ -32,7 +33,7 @@ ___
 <h3><b>Contenu connexe</b></h3>
 
 [Data Science](https://github.com/MiKL5/DS)  
-[Intelligence artificielle](https://github.com/MiKL5/Artificial-Intelligence/)  
+[Intelligence artificielle](https://github.com/MiKL5/Artificial_Intelligence/)  
 [Machine Learning](https://github.com/MiKL5/machineLearning)  
 <!-- [IOT and AIoT](https://github.com/MiKL5/aiot)  -->
 <!-- [Robotique](https://github.com/MiKL5/robotics)   -->
