@@ -1,4 +1,4 @@
-<h1 align="center"><b><a href="https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi">Business intelligence</a></b> <a href="https://github.com/MiKL5/"><img src="assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a></h1>
+<h1 align="center"><b><a href="https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi">Business intelligence</a></b> <a href="https://github.com/MiKL5/"><img src="assets/atomicBi.png" alt="Business intelligence" align="right" height="64px"></a></h1>
 <div align="center">
 
 <!-- [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/bi)  
@@ -14,13 +14,13 @@ ___
 [MongoDB](https://github.com/MiKL5/MongoDB) <a href="https://github.com/MiKL5/MongoDB"> <img src="assets/mongodb_original_logo_icon_146424.svg" alt="MongoDB" align="left" height="20px"> </a>  
 
 
-[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"> <img src="https://github.com/MiKL5/PowerBI/raw/master/assets/power_Bi.svg" alt="Power BI" align="left" height="20px"> </a>  
+[Power BI](https://github.com/MiKL5/PowerBI) <a href="https://github.com/MiKL5/PowerBI"> <img src="assets/powerBi.svg" alt="Power BI" align="left" height="20px"> </a>  
 <!-- [Google Big Query](projects/sp98) <a href=""> <img src="https://www.gstatic.com/bricks/image/d1a2346b57ea1c97bc4f8f01f289620f45c33d66bcd5b1372252fce3533cae4a.svg" alt="Google Big Query" align="left" height="20px"> </a>  
 [Locker Studio](projects/sp98) <a href=""> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="left" height="20px"> </a>   -->
 
 <br><div align="center"><br>
 <a href="docs"><img src="assets/bidw.jpg" alt="Business Intelligence" width="400"></a><br><br><h2><b>Projets</b></h2>
-<h3 align="left">Avec Power BI<a href="https://github.com/MiKL5/PowerBI"><img align="right" src="https://github.com/MiKL5/PowerBI/raw/master/assets/power_Bi.svg" alt="Power BI" height="48px"></a></h3></div> 
+<h3 align="left">Avec Power BI<a href="https://github.com/MiKL5/PowerBI"><img align="right" src="assets/powerBi.svg" alt="Power BI" height="48px"></a></h3></div> 
 
 [Cinéma](https://github.com/MiKL5/PowerBI/tree/master/3_cinema)  
 [Création de rapport](https://github.com/MiKL5/PowerBI/tree/master/6_rapportCinema)  
