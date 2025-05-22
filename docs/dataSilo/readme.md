@@ -1,4 +1,4 @@
-# **Le silo de données** <a href="../"><img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# **Le silo de données** <a href="../"><img src="../../assets/atomicBi.png" alt="Business intelligence" align="right" height="64px"></a>
 Le silo de données est un système de stockage et de gestion des données.  
 Les silos sont séparés les uns des autres et inaccessibles aux autres secteurs de l’entreprise. Se constituent lorsque les données sont conservées dans des systèmes ou des bases de données distincts incapables de communiquer ou de partager des informations entre eux.  
 Les silos de données peuvent provoquer des inefficacités, des erreurs et des retards, mais aussi empêcher les entreprises d’utiliser leurs données pour en extraire des informations et prendre de meilleures décisions. Il s’ensuit que les données sont souvent dupliquées ou utilisées de façon incohérente par différents services ou divisions de l’entreprise.

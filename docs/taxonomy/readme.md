@@ -1,4 +1,4 @@
-# **La taxonomie de la Business Intelligence**
+# **La taxonomie de la Business Intelligence**<a href="../"><img src="../../assets/atomicBi.png" alt="Business intelligence" align="right" height="64"></a>
 
 Ce cadre conceptuel permet de classer et organiser les différents aspects et outils de cette discipline. Le but est de comprendre comment les technologies et méthodes de cette dernière peuvent être appliquées dans divers contextes (e. g. le tourisme, …).
 

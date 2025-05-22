@@ -1,4 +1,4 @@
-# **Data Analytics** <a href="../"><img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# **Data Analytics** <a href="../"><img src="../../assets/atomicBi.png" alt="Business intelligence" align="right" height="64px"></a>
 L’analytique des données répond à des besoins spécifiques en matière d’informatique décisionnelle (e.g. : prévoir le résultat de décisions commerciales, générer des rapports et des tableaux de bord, réduire l’inefficacité opérationnelle, et cætera).
 
 ## **Qu’est-ce que c’est ?**

@@ -1,4 +1,4 @@
-# **Data stewarship (Intendance des données)** <a href="../"> <img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"> </a>
+# **Data stewarship (Intendance des données)** <a href="../"> <img src="../../assets/atomicBi.png" alt="Business intelligence" align="right" height="64px"> </a>
 # **Data stewarship (Intendance des données)**
 Les données avec lesquelles on travaille chaque jour sont souvent incomplètes, et parfois incorrectes. Il est possible de corriger cela en connaissant les données. Cela est impossible si l’on traite d’immenses quantités de données, ou si d’autres équipes ajoutent leurs propres données étant seules à bien connaître. N’utiliser des e-mails ou tableurs pour résoudre les problèmes de qualité de données n’est pas si efficace, et ajoute des risques liés à la prolifération de copies non contrôlées de données potentiellement sensibles dans différents dossiers, partout dans l’entreprise. Il y a besoin de règles, de processus et d’outils dédiés pour gérer la qualité des données de manière efficace et durable.
 

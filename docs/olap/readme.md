@@ -1,4 +1,4 @@
-# **L’OLAP** <a href="../"> <img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"> </a>
+# **L’OLAP** <a href="../"> <img src="../../assets/atomicBi.png" alt="Business intelligence" align="right" height="64px"> </a>
 L’OLAP, ou traitement analytique en ligne, est une technologie qui permet d’effectuer à grande vitesse des requêtes complexes ou des analyses multidimensionnelles sur de grands volumes de données dans un entrepôt de données, un [data lake](docs/dataLake) ou un autre référentiel de données. L’OLAP est utilisé dans la business intelligence (BI), l’aide à la décision et dans diverses applications de prévision et de production de rapports d’entreprise.  
 La plupart des données d’entreprise ont plusieurs dimensions, c’est-à-dire plusieurs catégories dans lesquelles elles sont décomposées à des fins de _présentation_ ou de _suivi ou d’analyse_ :
 * *les chiffres de vente peuvent avoir plusieurs dimensions liées au lieu :

@@ -1,4 +1,4 @@
-# **Le sharding (partitionnement)** <a href="../"><img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# **Le sharding (partitionnement)** <a href="../"><img src="../../assets/atomicBi.png" alt="Business intelligence" align="right" height="64px"></a>
 Apparu bien avant la blockchaine, le sharding est un concept issu du monde des bases de données traditionnelles consistant à fragmenter (partitioner) et à distribuer une grande base de données consistant à diviser des bases de données Big Data en Data Set (ou jeu de données) de taille réduite afin d’accélérer leur traitement ou de les gérer plus facilement, voire tout cela en même temps.  
 Quel que soit le critère utilisé pour ce faire, toutes les requêtes ne nécessitant l’accès qu’à une partie des données sont exécutées plus vite, car il y a moins de données à analyser. Le débit des transactions est optimisé et les ressources de stockage et de calcul sont réparties sur l’ensemble du réseau.
 ## **Le sharding horizontal**

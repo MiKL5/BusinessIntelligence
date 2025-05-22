@@ -1,4 +1,4 @@
-# Requête imbriquée <a href="../"><img src="../../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# Requête imbriquée <a href="../"><img src="../../../assets/atomicBi.png" alt="Business intelligence" align="right" height="64px"></a>
 ```sql
 SELECT *
 FROM(

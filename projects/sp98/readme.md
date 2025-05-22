@@ -1,4 +1,4 @@
-# Prix du sans-plomb 98 à proximité de Lisieux <a href="../../"><img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# Prix du sans-plomb 98 à proximité de Lisieux <a href="../../"><img src="../../assets/atomicBi.png" alt="Business intelligence" align="right" height="64px"></a>
 À partir de Google Spread Sheet, nettoyer le fichier CSV. Ne gardez que les colonnes utiles pour récupérer le prix des carburants plus moins cher, en fonction de l’emplacement géographique.
 
 À partir de Google Big Query, importer le fichier CSV contenant les données nettoyées.

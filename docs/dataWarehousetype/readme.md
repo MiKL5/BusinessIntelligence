@@ -1,4 +1,4 @@
-# Les types d’entreôts de données <a href="../"><img src="../../assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# Les types d’entreôts de données <a href="../"><img src="../../assets/atomicBi.png" alt="Business intelligence" align="right" height="64px"></a>
 1. **Le Data Warehouse (DW) Entreprise**  
 Un Data Warehouse d’entreprise est une grande base de données centralisée intègrant des données de l’ensemble de l’organisation, conçu pour servir les besoins analytiques de toute l’entreprise.
 2. **Data Mart**  
