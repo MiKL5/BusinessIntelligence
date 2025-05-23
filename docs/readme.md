@@ -21,28 +21,6 @@
 [Le silo de données](dataSilo)  
 [Le PoC](poc)  
 [Le sharding](sharding)  
-## **Les algorithmes**
-> ### **Les algorithmes de recherche**
-> [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/search)  
-> [L’algorithme de recherche de chemin A*](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/a)  
-> [L’algorithme de recherche de chemin tabou](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/tabou)  
-> [L’algorithme glouton](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/glouton)  
-> [L’algorithme de force brute](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/brutForce)  
-> [Algorithme de recherche hybride](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/hybride)
-
-> ### **Les algorithmes de parcours**
-> [Définition](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/path)  
-> [L’algorithme de parcoues en prodondeur DFS](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/dfs)  
-> [L’algorithme de parcours en largeur BFS](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/search)  
-> [L’algorithme de parcours de graph (en profondeur) tri  topologique](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/topologicalSort)  
-> [L’algorithme de Dijkstra](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/Dijkstra)  
-> [L’algorithme de Kahn](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/topologicalSort)  
-> [L’algorithme de Tarjan](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/tarjan)  
-> [L’algorithme de Kahn vs l’algorithme de Tarjan](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/kahnVsTarjan)  
-
-[La différences entre algorithme de parcours et algorithme de recherche](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/algo/pathVsSearch)
-
-[S’assurer que les modèles d’apprentissage automatique respectent les principes éthiques et de non-discrimination](algo/EthicalNon-discriminationPrinciples)
 
 <!-- ___
 ###### [**Probabilité statistiques pour la Data Science**](../productivityAndStatistics4DataScienceAndBusiness) <kbd>wip</kbd> -->
