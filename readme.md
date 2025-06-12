@@ -19,7 +19,7 @@ ___
 [Locker Studio](projects/sp98) <a href=""> <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="Google Lokker Studio" align="left" height="20px"> </a>   -->
 
 <br><div align="center"><br>
-<a href="docs"><img src="assets/bidw.jpg" alt="Business Intelligence" width="400"></a><br><br><h2><b>Projets</b></h2>
+<a href="docs"><img src="assets/bi1.jpg" alt="Business Intelligence" width="400"></a><br><br><h2><b>Projets</b></h2>
 <h3 align="left">Avec Power BI<a href="https://github.com/MiKL5/PowerBI"><img align="right" src="assets/powerBi.svg" alt="Power BI" height="48px"></a></h3></div> 
 
 [Cinéma](https://github.com/MiKL5/PowerBI/tree/master/3_cinema)  

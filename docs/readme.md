@@ -1,4 +1,4 @@
-<h1 align="center"><b>Business Intelligence</b> <a href="../"><img src="../assets/atomicBi.png" alt="Business intelligence" align="right" height="64"></a> </h1>
+<h1 align="center"><b>Business Intelligence</b><a href="../"><img src="../assets/atomicBi.png"alt="Business intelligence" align="right"height="64"></a></h1>
 
 [Quelques termes et concepts](https://github.com/MiKL5/DS/blob/master/analysisIntro/intro/termsAndConcepts)  
 [La gérance des données](https://github.com/MiKL5/artificialIntelligence/blob/master/docs/other/dataStewarding)  
@@ -25,4 +25,4 @@
 <!-- ___
 ###### [**Probabilité statistiques pour la Data Science**](../productivityAndStatistics4DataScienceAndBusiness) <kbd>wip</kbd> -->
 
-<div align="center"><br><a href="../"><img src="../assets/bi.jpg" width="400"></a></div>
+<div align="center"><br><a href="../"><img src="../assets/bi.jpg"width="400"></a></div>
