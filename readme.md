@@ -20,7 +20,7 @@ ___
 
 <br><div align="center"><br>
 <a href="docs"><img src="assets/bi1.jpg" alt="Business Intelligence" width="400"></a><br><br><h2><b>Projets</b></h2>
-<h3 align="left">Avec Power BI<a href="https://github.com/MiKL5/PowerBI"><img align="right" src="assets/powerBi.svg" alt="Power BI" height="48px"></a></h3></div> 
+<h3 align="left">TP Power BI<a href="https://github.com/MiKL5/PowerBI"><img align="right" src="assets/powerBi.svg" alt="Power BI" height="48px"></a></h3></div> 
 
 [Cinéma](https://github.com/MiKL5/PowerBI/tree/master/3_cinema)  
 [Création de rapport](https://github.com/MiKL5/PowerBI/tree/master/6_rapportCinema)  
@@ -34,7 +34,7 @@ ___
 
 <!-- <br><div align="center"><h3><a href="docs" alt="Documentation">Documentation</a></h3><br> -->
 ___
-<div align="center"><h3><b>Contenu connexe</b></h3>
+<div align="center"><h3><b>Contenu connexe</b></h3></div>
 
 🧠 [Data Science](https://github.com/MiKL5/DS)  
 🤖 [Intelligence artificielle](https://github.com/MiKL5/Artificial_Intelligence/)  
